@@ -78,7 +78,7 @@ defaultGotySettings = {
     UseGOTYShieldPack = true,
     UseGOTYBXTCharging = true,
     UseGOTYJackalAirburst = true,
-    RageThrustPackDependsOnCapperSpeed = true,
+    RageThrustPackDependsOnCapperSpeed = false,
 }
 
 -- Function to set or override any settings
